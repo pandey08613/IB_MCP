@@ -3,3 +3,4 @@ name = "ib-mcp"
 version = "0.1.0"
 description = "This project provides an Interactive Brokers (IB) API interface using the Model Context Protocol (MCP)."
 requires-python = ">=3.10"
+# match the style used in the rest of the module
