@@ -5,3 +5,4 @@ description = "This project provides an Interactive Brokers (IB) API interface u
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # drop an unused branch
+# guard against empty input
